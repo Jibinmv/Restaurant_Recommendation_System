@@ -1,0 +1,4 @@
+Sample,Num Recommendations,Avg Rating,Avg Similarity Score,Price Range Match (%),City Match (%),Cuisine Match (%),Online Delivery Match (%),Table Booking Match (%)
+Sample 1,10,3.62,0.9917,60.0,100.0,100.0,100.0,100.0
+Sample 2,4,4.22,0.8352,100.0,100.0,100.0,75.0,75.0
+Sample 3,10,4.43,0.8069,40.0,100.0,10.0,100.0,100.0

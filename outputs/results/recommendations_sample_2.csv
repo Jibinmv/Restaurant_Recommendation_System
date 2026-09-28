@@ -1,0 +1,5 @@
+Rank,Restaurant Name,City,Cuisines,Price range,Aggregate rating,Votes,Has Online delivery,Has Table booking,Similarity Score
+1,The Fusion Kitchen,Mumbai,"North Indian, Italian, Chinese, Mexican",3,4.7,2083,Yes,Yes,0.9461
+2,Tea Villa Cafe,Mumbai,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea",3,4.1,1295,Yes,Yes,0.9179
+3,Tea Villa Cafe,Mumbai,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea",3,4.1,2040,Yes,Yes,0.9156
+4,R' ADDA,Mumbai,"Street Food, Burger, Desserts, Italian, Pizza, North Indian, European, Finger Food",3,4.0,536,No,No,0.5613

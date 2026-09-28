@@ -1,0 +1,11 @@
+Rank,Restaurant Name,City,Cuisines,Price range,Aggregate rating,Votes,Has Online delivery,Has Table booking,Similarity Score
+1,Communiti,Bangalore,Continental,3,4.2,334,No,No,0.8975
+2,Koramangala Social,Bangalore,"Continental, American",3,4.5,1288,No,No,0.846
+3,Hoot,Bangalore,"Continental, Italian, North Indian",3,3.9,405,No,No,0.8375
+4,Onesta,Bangalore,"Pizza, Cafe, Italian",2,4.6,627,No,No,0.8245
+5,Onesta,Bangalore,"Pizza, Cafe, Italian",2,4.6,781,No,No,0.8241
+6,ECHOES Koramangala,Bangalore,"Continental, American, Italian, North Indian, Chinese, Cafe",2,4.7,276,No,No,0.8176
+7,Glen's Bakehouse,Bangalore,"Bakery, Desserts, Cafe",2,4.0,3533,No,No,0.808
+8,Farzi Cafe,Bangalore,Modern Indian,3,4.4,754,No,No,0.8056
+9,AB's - Absolute Barbecues,Bangalore,"European, Mediterranean, North Indian",3,4.6,6907,No,No,0.7285
+10,Toit,Bangalore,"Italian, American, Pizza",4,4.8,10934,No,No,0.6794
