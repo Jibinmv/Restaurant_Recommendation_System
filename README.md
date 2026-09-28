@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Cognifyz Task 2: Restaurant Recommendation System
+
+#  🍽️ Restaurant Recommendation System
 
 ## Project Objective
 
@@ -306,7 +306,7 @@ Streamlit
 
 🚀 Installation
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/Restaurant_Recommendation_System.git
+git clone https://github.com/Jibinmv/Restaurant_Recommendation_System.git
 cd Restaurant_Recommendation_System
 2. Create a virtual environment
 python -m venv venv
